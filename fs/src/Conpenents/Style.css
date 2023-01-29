@@ -1,0 +1,150 @@
+
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+
+
+.Conteur{
+  background-color: rgba(253, 255, 253, 0.987);
+    margin: 70px ;
+    height: 500px;
+    border-radius: 20px;
+}
+
+
+
+
+#NavBar {
+    position: relative;
+    padding: 0px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+#Ajouter{
+    background-color: rgba(27, 176, 27, 0.874);
+    color: white;
+    box-shadow:2px 2px green;
+}
+
+
+#SearchC{
+    width: 73px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 180px;
+    border-radius: 5px;
+    
+}
+
+#trier{
+    background-color: greenyellow;
+}
+span{
+    color: rgb(54, 223, 54);
+    
+}
+h1{
+    color: black;
+}
+
+
+#Search{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+    padding-bottom: 20px;
+    position: relative;
+    top: -30px;
+}
+
+
+
+#r{
+    background-color: rgb(202, 185, 185);
+}
+
+#Contactes{
+    position: relative;
+    margin-top: 90px;
+    padding-left: 80px;
+    display: grid;
+    padding-right: 50px;
+    
+}
+body{
+    background-color: rgb(173, 170, 170);
+}
+
+
+#Ajoute{
+    background-color: rgba(27, 176, 27, 0.874);
+    box-shadow: 2px 2px 2px green;
+    color: white;
+    margin-top: 90px;
+    margin-left: 350px;
+}
+.forms{
+    display: grid;
+    position: relative;
+    left: 200px;
+    top: 80px;
+}
+
+.btns{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px;
+}
+#rech{
+    width: 200px;
+    border: 2px solid green;
+}
+
+
+
+.ContactA{
+    margin-bottom: 10px;
+    padding: 0px 15px;
+    height: 80px;
+    display: grid;
+    grid-template-columns: repeat(2,auto) 2fr repeat(2,1fr) auto;
+    background-color: #bfe382;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+#sup{
+    background-color: rgb(244, 134, 134);
+    color: rgb(225, 223, 223);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
